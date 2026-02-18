@@ -30,25 +30,65 @@ You can find the Power BI file here: [Teck_stock_viz](Tech_stock_viz.pbix)
 
 ## Key Findings
 
-### Best Performers
-1.   **NVDA dominated** with **+319.1%** growth from 2023-2025 far outpacing competitors.
-2.   **META** came in second at **+156.4%** growth despite having the lowest trading volume, suggesting high-conviction buying.
-3.   **AMZN** - Strong performer at **+78.6%**
+### Performance Winners
 
-### Risk Profile
-1. **TSLA** proved most volatile on a percentage basis (2.22% average daily swing).
-2.  while **AAPL** and **MSFT** offered the most stability. **NVDA** balanced high returns with moderate risk, making it the strongest risk-adjusted performer.
+1. NVDA absolutely crushed it with **+1,211% growth**, going from $14.30 to $187.54. At its peak, it hit $207.03 for a **+1,353%** gain. To put that in perspective: a $10,000 investment in early 2023 would be worth $131,000 by the end of the analysis period.
 
-### Timing Matters
-Trading volume peaked on Fridays across 5 out of 7 stocks. Q4 (October-December) consistently showed the strongest returns. April 9, 2025 stood out as an unusual day with 7 stocks posting their best single-day gains simultaneously.
+2. META came in second at **+438%** (from $123.87 to $665.95), which is interesting because it had the lowest trading volume at just 18.1M shares per day. Lower volume but massive growth usually points to strong institutional confidence—big players making calculated moves rather than a lot of retail noise.
 
-### Volume Trends
-Despite rising prices, overall trading volume declined steadily:
-- **2023**: 203.4 billion shares
-- **2024**: 159.5 billion shares  
-- **2025**: 122.5 billion shares
+3. Even the worst performer, MSFT, still doubled your money with **+108% growth**. When your "loser" still gives you 2x returns over three years, you know it was a strong bull market for tech.
 
-This suggests consolidation as fewer shares changed hands while prices climbed.
+### Risk vs. Reward
+
+1. NVDA wasn't just the winner in returns—it also had the best risk-adjusted performance. Growing 1,211% with a standard deviation of only 53.81 is impressive. Compare that to META's 438% growth with a 179.96 std dev, and NVDA starts looking like the smarter bet.
+
+2. META turned out to be the riskiest stock with a $179.96 standard deviation and a potential 23.28% loss in a single day. TSLA wasn't far behind at 22.69% max daily swing—these are the stocks that keep you up at night.
+
+3. On the flip side, AAPL was the safe choice with the lowest volatility (34.33 std dev) while still delivering solid **122%** returns. If you're risk-averse but still want good gains, AAPL proved you could have both.
+
+### April 9, 2025: What Happened?
+
+This date stood out immediately in the data. Four stocks posted their best (or near-best) single-day gains all on the same day:
+
+- TSLA: +22.69% (literally its best day in the entire dataset)
+- NVDA: +18.72%
+- AAPL: +15.33%
+- META: +14.76%
+
+Something major moved the whole market that day. My guess? Fed announcement, breakthrough AI news, or some major regulatory change. This is exactly the kind of anomaly that deserves a deeper dive with news correlation to figure out what actually triggered it.
+
+Interestingly, the worst day was January 27, 2025, when NVDA dropped -16.97%. Understanding both the best and worst days could reveal patterns in how these stocks react to external events.
+
+### The Volume Decline Pattern
+
+Here's something that caught my attention: while stock prices were climbing across the board, trading volume dropped by **40%** from 203.4 billion shares in 2023 down to 122.5 billion in 2025.
+
+This usually means one of three things:
+- Big institutional players are accumulating shares (fewer trades, bigger positions)
+- Retail investors are sitting out at these higher price levels
+- Supply is tightening as long-term holders refuse to sell
+
+Why does this matter? When volume drops while prices rise, you're running out of new buyers. It's often a warning sign that a correction might be coming. Not always, but it's something to watch.
+
+### Trading Patterns
+
+- Fridays consistently saw the highest volume across most stocks (5 out of 7). This makes sense when you think about it—options expire weekly, traders don't want to hold positions over the weekend, and a lot of institutional rebalancing happens end-of-week.
+
+- The other pattern that jumped out was Q4 performance. October through December showed the strongest returns year after year, backing up the whole "Santa Claus rally" thing even in volatile tech stocks.
+
+### NVDA's Liquidity Advantage
+
+- NVDA's daily volume averaged 357.5M shares—that's 3.2x more than TSLA, 6.3x more than AAPL, and almost 20x more than META. 
+
+- This matters more than you might think. High liquidity means institutional investors can move in and out of large positions without moving the price too much. It's one reason why big money might prefer NVDA over some of the other high-growth stocks.
+
+### Growth vs. Volume: An Unexpected Pattern
+
+1. When I compared growth rates to trading volumes, I found something interesting: the highest-growth stocks (NVDA and META) didn't necessarily have the highest volumes. In fact, META had the lowest volume of the group.
+
+2. This suggests the growth wasn't driven by retail hype and FOMO(Fear of missing out) buying (which usually shows up as massive volume spikes). Instead, it looks like professional investors identified these opportunities early and accumulated positions steadily before the broader market caught on.
+
+3. Different smart money strategies for different stocks, which tells you the big players weren't just blindly buying everything tech—they had conviction in specific names for specific reasons.
 
 ---
 
